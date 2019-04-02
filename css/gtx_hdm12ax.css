@@ -235,6 +235,10 @@ iframe[src^='https://www.youtu'], iframe[src^='https://player.vimeo.com'] {
   header, main {
     padding-left: 5px;
   }
+  h1 { line-height: 1.8rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
   nav h2 {
     display: block;
   }
